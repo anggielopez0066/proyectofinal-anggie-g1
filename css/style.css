@@ -170,6 +170,12 @@ overflow-x: hidden;
     text-align: center;
     
 }
+/* seccion  gabbna */
+#domicilios .titulo{
+    width: 100%;
+    text-align: center;
+    
+}
 
 .img-alto{
     height: 700px;
